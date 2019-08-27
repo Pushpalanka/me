@@ -1,4 +1,4 @@
-##Pushpalanka Jayawardhana
+Pushpalanka Jayawardhana
 -------------------------------------------------------------------------------------------------
 * **LinkedIn:** https://www.linkedin.com/in/pushpalanka
 * **Twitter:** https://twitter.com/Pushpalanka
