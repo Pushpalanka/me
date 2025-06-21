@@ -7,5 +7,3 @@ Pushpalanka Jayawardhana
 
 Would like talk to talk about Identity and Access Management / Authorization in platforms,
 Looking for a mentor,
-
-You can book a free 30 mins session [here](https://calendly.com/pushpalankajaya/30min).
